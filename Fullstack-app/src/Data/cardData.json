@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Yosemite National Park",
+      "description": "A beautiful national park located in California.",
+      "imageUrl": "https://images.unsplash.com/photo-1527549993586-dff825b37782?auto=format&fit=crop&w=286",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Grand Canyon",
+      "description": "A vast canyon in Arizona, known for its stunning views.",
+      "imageUrl": "https://images.unsplash.com/photo-1563996793038-0c7b0b4e6a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDEwfHxHcmFuZCUyMENhbnVvfGVufDB8fHx8MTYxMjIzNjIzOQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$35 per vehicle"
+    },
+    {
+      "title": "Yellowstone National Park",
+      "description": "Home to geysers and hot springs, and diverse wildlife.",
+      "imageUrl": "https://images.unsplash.com/photo-1516820834982-f5efc0c54782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDN8fFlsbG93c3RvbmUlMjBOYXRpb25hbCUyMFBhcmslMjB2aWV3fGVufDB8fHx8MTYxMjIzNjI5MA&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$35 per vehicle"
+    },
+    {
+      "title": "Zion National Park",
+      "description": "Known for its stunning red cliffs and canyoneering.",
+      "imageUrl": "https://images.unsplash.com/photo-1516005577885-430b1355ac48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDR8fHpvbmlsb25hbCUyMFBhcmslMjB2aWV3fGVufDB8fHx8MTYxMjIzNjM0Mw&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$35 per vehicle"
+    },
+    {
+      "title": "Mount Rainier National Park",
+      "description": "Features majestic mountain landscapes and wildflower meadows.",
+      "imageUrl": "https://images.unsplash.com/photo-1522319564233-27b5e79e3f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDV8fE1vdXQlMjBSYWluaWVyJTIwTmF0aW9uYWwlMjBQYXJrfGVufDB8fHx8MTYxMjIzNjM5Nw&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Glacier National Park",
+      "description": "Known for its stunning scenery and diverse wildlife.",
+      "imageUrl": "https://images.unsplash.com/photo-1585846029481-1a0b7473c01c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDZ8fEdsYWNpZXIlMjBOYXRpb25hbCUyMFBhcmslMjB2aWV3fGVufDB8fHx8MTYxMjIzNjQwNg&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$35 per vehicle"
+    },
+    {
+      "title": "Big Bend National Park",
+      "description": "Features vast landscapes and unique desert flora.",
+      "imageUrl": "https://images.unsplash.com/photo-1506787670158-275447c5402f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDh8fEJpZyUyMEJlbmQlMjBOYXRpb25hbCUyMFBhcmslMjB2aWV3fGVufDB8fHx8MTYxMjIzNjQ2Ng&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Joshua Tree National Park",
+      "description": "Known for its unique trees and beautiful rock formations.",
+      "imageUrl": "https://images.unsplash.com/photo-1515720275483-3a3d4efb4d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDEwfHh8R29sZGVuJTIwUmFpbmllciUyMFBhcmslMjB2aWV3fGVufDB8fHx8MTYxMjIzNjUyMA&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Acadia National Park",
+      "description": "Offers stunning coastal views and lush landscapes.",
+      "imageUrl": "https://images.unsplash.com/photo-1519421524098-4f3a6f8e9f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDEyfHh8QWNhaWRpYSUyME5hdGlvbmFsJTIwUGFyayUyMHZpZXclMjBhbHNvfGVufDB8fHx8MTYxMjIzNjU0Mg&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Badlands National Park",
+      "description": "Famous for its dramatic landscapes and fossil beds.",
+      "imageUrl": "https://images.unsplash.com/photo-1516068262795-d5b1f1e69c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDExfHh8QmFkbGFuZHMlMjBOYXRpb25hbCUyMFBhcmslMjB2aWV3fGVufDB8fHx8MTYxMjIzNjU5MQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Olympic National Park",
+      "description": "Known for its diverse ecosystems and scenic views.",
+      "imageUrl": "https://images.unsplash.com/photo-1518963641135-9a51534f3b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDIyfHh8T2x5bXBpYyUyME5hdGlvbmFsJTIwUGFyayUyMHZpZXclMjBhbHNvfGVufDB8fHx8MTYxMjIzNjYyMw&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    },
+    {
+      "title": "Denali National Park",
+      "description": "Home to North America's highest peak, Mount Denali.",
+      "imageUrl": "https://images.unsplash.com/photo-1519995503222-08c29b7de9c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5M3wwfDF8c2VhcmNofDR8fERlbmFsaSUyME5hdGlvbmFsJTIwUGFyayUyMHZpZXclMjBhbHNvfGVufDB8fHx8MTYxMjIzNjg3Ng&ixlib=rb-1.2.1&q=80&w=1080",
+      "price": "$30 per vehicle"
+    }
+  ]
+  
